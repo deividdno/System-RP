@@ -1,3 +1,3 @@
 # System-RP
 
-Criação de um mini sistema de rp de mercado
+Criação de um mini sistema de rp de loja
